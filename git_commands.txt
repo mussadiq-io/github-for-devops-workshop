@@ -1,0 +1,55 @@
+dir
+clear
+git status
+dir
+git add testing.py
+git status
+git rm -- testing.py
+git rm --testing.py
+clear
+git status
+git rm --cached testing.py
+git status
+git add testing.py
+git status
+git commit -m "added testing files"
+clear
+git config --global user.name "Mussadiq Ali"
+git config --global user.email "mussadiq.116@gmail.com"
+git commit -m "added testing files"
+git status
+rm testing.py
+dir
+git status
+git restore testing.py
+status
+
+ 1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft ...
+"C:/Program Files/Python314/python.exe" c:/Users/Admin/...
+ git remote add origin https://github.com/mussadiq-io/gith...
+ git push origin main
+clear
+git status
+git add.
+git add git_commands.txt
+git status
+git commit -m "added learned commands"
+git status
+clear
+git remote add origin https://github.com/mussadiq-io/gith...
+git remote -v
+git remote -v
+git push origin master
+clear
+git git remote -v
+clear
+git remote -v
+git push origin main
+clear
+rm git-demo-new
+restore git-demo-new
+mkdir git-demo-new
+clear
+git remote set-url origin https://ghp_BkfBT2e7xmF8diac6jw...
+git clone https://github.com/mussadiq-io/DevOps-Roadmap.git  
+clear
